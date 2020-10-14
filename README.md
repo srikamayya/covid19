@@ -15,7 +15,7 @@ For this project, I was interested in using COVID-19 india data set from January
 	3.	India have enough testing labs?
 
 File Descriptions
-There are 1 notebook(Covid_19_Data_Analysis) available here to showcase work related to the above questions.
+There are 1 notebook(Covid_19_Data_Analysis.ipynd) available here to showcase work related to the above questions.
 
 Results
 Findings of the code can be found at the post available
