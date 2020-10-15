@@ -20,14 +20,14 @@ For this project, I was interested in using COVID-19 India data set from January
 
 <B>File Descriptions</B>
 
-There are 4 notebooks available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
+There are 3 notebooks available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 1)COVID-19 cases at daily level is present in covid_19_india.csv file  
 2)Population at state level is present in population_india_census2011.csv file  
 3)Number of COVID-19 tests at daily level in ICMRTestingDetails.csv file  
 4)Covid_19_Data_Analysis.ipynd is the nootbook to answer the above questions
 
-Keeping_Data_into_CRISP_Model notebook used to implemented the for crisp-dm process 
+Keeping_Data_into_CRISP_Model notebook used to implemente the CRISP-DM process 
 
 <B>Results</B>
 
